@@ -67,5 +67,6 @@ jobs:
         with:
           app-name: 'wordleweb'
           slot-name: 'Production'
+          publish_dir: ./dist
           package: .
           
